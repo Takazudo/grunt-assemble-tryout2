@@ -1,0 +1,7 @@
+name: yomotsu
+age: 31
+products:
+  - name: gyudon
+    price: 200yen
+  - name: katsudon
+    price: 300yen
